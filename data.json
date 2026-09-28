@@ -1,0 +1,4 @@
+[
+    {"id": 1, "task": "Create Flask App", "status": "Done"},
+    {"id": 2, "task": "Connect to MongoDB Atlas", "status": "Pending"}
+]
